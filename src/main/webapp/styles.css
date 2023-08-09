@@ -1,0 +1,16 @@
+table {
+    background-color: blue;
+}
+
+th {
+    background-color: antiquewhite;
+}
+
+td {
+    background-color: white;
+}
+
+h1 {
+    font-family: Arial, serif;
+    color: #ff0077;
+}
